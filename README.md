@@ -1,2 +1,2 @@
 # slides
-slides for public distribution
+some slide decks from talks I have given
